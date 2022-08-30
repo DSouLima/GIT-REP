@@ -1,5 +1,5 @@
-aluno1 = int(input("Digite a nota deste aluno:"))
-aluno2 = int(input("Digite a nota deste aluno:"))
+aluno1 = float(input("Digite a nota deste aluno:"))
+aluno2 = float(input("Digite a nota deste aluno:"))
 
 media = (aluno1 + aluno2) / 2
 
