@@ -1,3 +1,3 @@
-f = open("example.txt")
+f = open("example.txt", mode='r')
 
-list(f)
+print(f)
