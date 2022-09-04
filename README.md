@@ -1,2 +1,2 @@
 # GIT-REP 
-This Rep is just a newbie developer ref to learn
+This is a newbie developer repositer to practice and learn. Thank you!
