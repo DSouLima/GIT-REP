@@ -1,3 +1,2 @@
-f = open("example.txt", mode='r')
-
-print(f)
+with open ("interfaces.xml", "r") as r:
+    print(r.read())
